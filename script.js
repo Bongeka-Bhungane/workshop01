@@ -1,13 +1,13 @@
 console.log("Hello World");
 let myData = {
   name: "The Greate Wall of China",
-  type: "fortifications",
+  type: "Fortifications",
   discoveryLocation: "Imperial China",
-  builtBy: "dynasties",
+  builtBy: "Dynasties",
   timeBuilt: "7th century BC",
-  primaryPurpose: "to protect against raids and invasions from various nomadic groups",
-  metirial_used: "stone, brick, tamped earth, and wood",
-  significance: "a UNESCO World Heritage site and a powerful symbol of China's enduring strength and history",
+  primaryPurpose: "To protect against raids and invasions from various nomadic groups",
+  metirial_used: "Stone, brick, tamped earth, and wood",
+  significance: "A UNESCO World Heritage site and a powerful symbol of China's enduring strength and history",
 };
 
 console.log(myData["name"]);
